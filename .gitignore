@@ -1,0 +1,3 @@
+*.o
+vseed*
+dnsstats.log
